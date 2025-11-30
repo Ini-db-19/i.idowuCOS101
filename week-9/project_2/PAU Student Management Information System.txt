@@ -1,0 +1,8 @@
+
+                         PAU SMIS
+Student Name       Matric. Number    Department      Level
+Oluchi Mordi        ACC10211111      Accounting       300
+Amilah Ziga         ECO10110101      Economics        200
+Muhammad Ali        CSC10328828      Computing        100
+Adekunle Bobby      EEE11020202      Electrical       300
+Bianca Peterson     MEE10202001      Mechanical       100
