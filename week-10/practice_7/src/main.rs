@@ -5,6 +5,7 @@ struct Employee{
 }
 
 fn main(){
+    //Initializing a structure
     let emp1 = Employee{
         company:String::from("Ernst & Young"),
         name:String::from("Jones Jessica"),
