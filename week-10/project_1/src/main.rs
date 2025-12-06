@@ -1,10 +1,10 @@
 
 struct Price {
-    hp:u64,ibm:u64,toshiba:u64,dell:u64
+    hp:u32,ibm:u32,toshiba:u32,dell:u32
 }
 
 impl Price {
-   fn total(&self) -> u64 {
+   fn total(&self) -> u32 {
         3*(self.hp+self.ibm+self.toshiba+self.dell)
     }
 }
